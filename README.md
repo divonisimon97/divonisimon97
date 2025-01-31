@@ -1,4 +1,4 @@
-<h1>Hi, I'm Divoni! <br/><a href="https://www.linkedin.com/in/divoni-simon-999961112/">IT & Cybersecurity Professional</a>, YouTuber </h1>
+<h1>Hi, I'm Divoni! <br/><a href="https://www.linkedin.com/in/divoni-simon-999961112/">I.T. & Cybersecurity Professional</a>, YouTuber </h1>
 
 <h2>🚧 Cybersecurity Projects:</h2>
 
