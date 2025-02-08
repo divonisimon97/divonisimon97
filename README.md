@@ -9,7 +9,7 @@
 
 <h2>🏅 Certifications:</h2>
 
-- <b>compTIA Network+ (in progress)</b>
+- <b>CompTIA Network+ (in progress)</b>
 - <b>Google Cybersecurity</b>
 
 
