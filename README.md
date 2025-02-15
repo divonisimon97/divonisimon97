@@ -4,8 +4,8 @@
 
 - <b>Basic Password Cracking (John the Ripper)</b>
   - (https://github.com/divonisimon97/Basic-Password-Cracking-John-the-Ripper-)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Detecting Malicious Traffic in Wireshark</b>
+  - (https://github.com/divonisimon97/Detecting-Malicious-Traffic-in-Wireshark) <b><i>
 
 <h2>🏅 Certifications:</h2>
 
