@@ -3,9 +3,11 @@
 <h2>🚧 Cybersecurity Projects:</h2>
 
 - <b>Basic Password Cracking (John the Ripper)</b>
-  - (https://github.com/divonisimon97/Basic-Password-Cracking-John-the-Ripper-)
+  - [Cracking John](https://github.com/divonisimon97/Basic-Password-Cracking-John-the-Ripper-)
 - <b>Detecting Malicious Traffic in Wireshark</b>
   - (https://github.com/divonisimon97/Detecting-Malicious-Traffic-in-Wireshark) <b><i>
+- <b>Extracting Login Credentials from HTTP Traffic</b>
+  - (https://github.com/divonisimon97/Extracting-Login-Credentials-from-HTTP-Traffic)
 
 <h2>🏅 Certifications:</h2>
 
