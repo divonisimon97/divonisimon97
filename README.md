@@ -13,7 +13,9 @@
 </h3>├── I.T. Support Labs</h3>
 
 - <b>IT Support Ticketing System – Built with MariaDB & Apache</b>
-  - [Ticketing System](https://github.com/divonisimon97/IT-Support-Help-Desk-Ticketing-System/blob/main/README.md)
+  - [Ticketing System](https://github.com/divonisimon97/IT-Support-Help-Desk-Ticketing-System)
+- <b>Linux System Administration Automation</b>
+  - [Administration Automation System](https://github.com/divonisimon97/Linux-System-Administration-Automation)
 
 <h2>🏅 Certifications:</h2>
 
