@@ -20,7 +20,7 @@
 <h2>🏅 Certifications:</h2>
 
 - <b>CompTIA Network+ (in progress)</b>
-- <b>Google Cybersecurity</b>
+- <b>Google Cybersecurity (completed)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
