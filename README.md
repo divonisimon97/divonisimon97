@@ -16,6 +16,8 @@
   - [Ticketing System](https://github.com/divonisimon97/IT-Support-Help-Desk-Ticketing-System)
 - <b>Linux System Administration Automation</b>
   - [Administration Automation System](https://github.com/divonisimon97/Linux-System-Administration-Automation)
+- <b>Log Analysis SIEM Integration with Splunk on Linux</b>
+  - [SIEM w/ Splunk](https://github.com/divonisimon97/Log-Analysis-SIEM-Integration-with-Splunk-on-Linux)
 
 <h2>🏅 Certifications:</h2>
 
